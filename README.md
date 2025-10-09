@@ -41,6 +41,7 @@ Data Warehousing – Cleaned data loaded into Gold Layer (Synapse Analytics)
 
 Visualization  – Power BI dashboards display insights
 
+
 ## 💡 Key Features
 
 Fully automated ETL pipeline using Azure services
