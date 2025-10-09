@@ -65,13 +65,13 @@ Cloud orchestration & Medallion Architecture implementation
 ## 🎬 Demo / Screenshots
 
 ### 🧩 Azure Data Factory Pipeline
-![ADF Pipeline](screenshots/adf_pipeline.png)
+![ADF Pipeline](screenshots/pipeline_flow.png)
 
 ### ⚙️ Databricks Data Transformation
-![Databricks Transformation](screenshots/databricks_transformation.png)
+![Databricks Transformation](screenshots/data_bricks_transformation.png)
 
 ### 🧮 Azure Synapse Analytics
-![Synapse Query](screenshots/synapse_query.png)
+![Synapse Query](screenshots/synapse_view.png)
 
 
 
