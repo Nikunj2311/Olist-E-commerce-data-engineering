@@ -41,7 +41,7 @@ Data Warehousing – Cleaned data loaded into Gold Layer (Synapse Analytics)
 
 Visualization  – Power BI dashboards display insights
 
-# 💡 Key Features
+## 💡 Key Features
 
 Fully automated ETL pipeline using Azure services
 
@@ -51,7 +51,7 @@ Scalable & production-ready cloud pipeline
 
 Data validation & schema enforcement in Databricks
 
-# 🧠 Skills Learned / Highlights
+## 🧠 Skills Learned / Highlights
 
 Azure Data Engineering (ADF, Databricks, Synapse, ADLS)
 
@@ -61,19 +61,21 @@ ETL Pipeline Design & Data Warehousing
 
 Cloud orchestration & Medallion Architecture implementation
 
-# 🎬 Demo / Screenshots
-<img width="1920" height="1031" alt="Screenshot 2025-10-03 010710" src="https://github.com/user-attachments/assets/4d6be211-4d37-47c5-a5c3-bf0ff331332c" />
+## 🎬 Demo / Screenshots
 
-<img width="1917" height="984" alt="Screenshot 2025-10-07 013417" src="https://github.com/user-attachments/assets/b6b13f99-7240-43ed-8a19-afa40bba9837" />
+### 🧩 Azure Data Factory Pipeline
+![ADF Pipeline](screenshots/adf_pipeline.png)
 
-<img width="1920" height="1038" alt="Screenshot 2025-10-09 234927" src="https://github.com/user-attachments/assets/73918939-bbad-44b7-94d6-46d776c37180" />
+### ⚙️ Databricks Data Transformation
+![Databricks Transformation](screenshots/databricks_transformation.png)
 
-Example placeholders:
+### 🧮 Azure Synapse Analytics
+![Synapse Query](screenshots/synapse_query.png)
 
 
 
 
-# ⚡ How to Run / Setup
+## ⚡ How to Run / Setup
 1. Clone the repository
 2. Set up Azure Data Lake Storage & Databricks workspace
 3. Run Data Factory pipelines
