@@ -14,6 +14,11 @@ The pipeline automates **data ingestion, transformation, and storage**, making i
 
 ---
 
+## 🖼️ Architecture Diagram
+<img width="3437" height="1842" alt="Architecture Diagram" src="https://github.com/user-attachments/assets/15fb0aae-6f84-48cf-a836-bcfe3636f10b" />
+
+---
+
 ## 🛠️ Tech Stack
 - **Azure Data Factory** – Data ingestion & orchestration  
 - **Azure Data Lake Storage (Gen2)** – Raw & processed data storage  
