@@ -32,3 +32,55 @@ flowchart LR
     C --> D[Silver Layer - Databricks Transformation]
     D --> E[Gold Layer - Synapse Analytics]
     E --> F[Power BI Dashboards]
+```
+Data Ingestion – ADF pulls raw data into Bronze Layer
+
+Data Cleaning & Transformation – Databricks (PySpark) processes data into Silver Layer
+
+Data Warehousing – Cleaned data loaded into Gold Layer (Synapse Analytics)
+
+Visualization  – Power BI dashboards display insights
+
+# 💡 Key Features
+
+Fully automated ETL pipeline using Azure services
+
+Implements Medallion Architecture (Bronze → Silver → Gold)
+
+Scalable & production-ready cloud pipeline
+
+Data validation & schema enforcement in Databricks
+
+# 🧠 Skills Learned / Highlights
+
+Azure Data Engineering (ADF, Databricks, Synapse, ADLS)
+
+PySpark & SQL for large-scale data processing
+
+ETL Pipeline Design & Data Warehousing
+
+Cloud orchestration & Medallion Architecture implementation
+
+# 🎬 Demo / Screenshots
+<img width="1920" height="1031" alt="Screenshot 2025-10-03 010710" src="https://github.com/user-attachments/assets/4d6be211-4d37-47c5-a5c3-bf0ff331332c" />
+
+<img width="1917" height="984" alt="Screenshot 2025-10-07 013417" src="https://github.com/user-attachments/assets/b6b13f99-7240-43ed-8a19-afa40bba9837" />
+
+<img width="1920" height="1038" alt="Screenshot 2025-10-09 234927" src="https://github.com/user-attachments/assets/73918939-bbad-44b7-94d6-46d776c37180" />
+
+Example placeholders:
+
+
+
+
+# ⚡ How to Run / Setup
+1. Clone the repository
+2. Set up Azure Data Lake Storage & Databricks workspace
+3. Run Data Factory pipelines
+4. Connect Synapse & visualize in Power BI
+
+# 🏆 Conclusion / Outcome
+
+This project demonstrates a real-world, scalable data engineering pipeline, transforming raw e-commerce data into structured, analytics-ready datasets.
+It highlights cloud-based ETL, transformation, and warehouse design, showcasing skills required for data engineering roles.
+
