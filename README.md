@@ -33,34 +33,34 @@ flowchart LR
     D --> E[Gold Layer - Synapse Analytics]
     E --> F[Power BI Dashboards]
 ```
-Data Ingestion – ADF pulls raw data into Bronze Layer
+1. Data Ingestion – ADF pulls raw data into Bronze Layer
 
-Data Cleaning & Transformation – Databricks (PySpark) processes data into Silver Layer
+2. Data Cleaning & Transformation – Databricks (PySpark) processes data into Silver Layer
 
-Data Warehousing – Cleaned data loaded into Gold Layer (Synapse Analytics)
+3. Data Warehousing – Cleaned data loaded into Gold Layer (Synapse Analytics)
 
-Visualization  – Power BI dashboards display insights
+4. Visualization  – Power BI dashboards display insights
 
 
 ## 💡 Key Features
 
-Fully automated ETL pipeline using Azure services
+* Fully automated ETL pipeline using Azure services
 
-Implements Medallion Architecture (Bronze → Silver → Gold)
+* Implements Medallion Architecture (Bronze → Silver → Gold)
 
-Scalable & production-ready cloud pipeline
+* Scalable & production-ready cloud pipeline
 
-Data validation & schema enforcement in Databricks
+* Data validation & schema enforcement in Databricks
 
 ## 🧠 Skills Learned / Highlights
 
-Azure Data Engineering (ADF, Databricks, Synapse, ADLS)
+* Azure Data Engineering (ADF, Databricks, Synapse, ADLS)
 
-PySpark & SQL for large-scale data processing
+* PySpark & SQL for large-scale data processing
 
-ETL Pipeline Design & Data Warehousing
+* ETL Pipeline Design & Data Warehousing
 
-Cloud orchestration & Medallion Architecture implementation
+* Cloud orchestration & Medallion Architecture implementation
 
 ## 🎬 Demo / Screenshots
 
