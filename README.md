@@ -73,12 +73,13 @@ flowchart LR
 ![ADF Pipeline](screenshot/pipline_flow.png)
 
 ### ⚙️ Databricks Data Transformation
-![Databricks Transformation](screenshot/data_brick_transfoemation.png)
+![Databricks Transformation](screenshot/data_brick_transformation.png)
 
 ### 🧮 Azure Synapse Analytics
 ![Synapse Query](screenshot/synapse_view.png)
 
-
+### 📊 Power Bi Dashboard
+![Olist E-commerce Sales and Review Dashboard Snapshot](screenshot/Power_bi_dashboard.png)
 
 
 ## ⚡ How to Run / Setup
