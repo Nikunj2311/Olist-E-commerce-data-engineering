@@ -93,3 +93,14 @@ flowchart LR
 This project demonstrates a real-world, scalable data engineering pipeline, transforming raw e-commerce data into structured, analytics-ready datasets.
 It highlights cloud-based ETL, transformation, and warehouse design, showcasing skills required for data engineering roles.
 
+## 👨‍💻 Author
+
+|Developed by: Nikunj Bansal|
+
+📧 Email: nikunjb832@example.com
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Nikunj_Bansal-blue?logo=linkedin)](https://www.linkedin.com/in/nikunj-bansal-166555347/)
+
+[![GitHub](https://img.shields.io/badge/GitHub-Nikunj2311-black?logo=github)](https://github.com/Nikunj2311)
+
+
