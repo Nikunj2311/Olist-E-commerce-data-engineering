@@ -57,6 +57,23 @@ flowchart LR
 
 * Data validation & schema enforcement in Databricks
 
+## 🧠 Intelligent Review Similarity Analysis
+
+Implemented a customer review similarity detection module using TF-IDF vectorization and cosine similarity.
+
+### Workflow
+1. Extracted multilingual customer reviews from Olist review dataset
+2. Applied preprocessing and text cleaning
+3. Translated review text into English
+4. Generated TF-IDF vectors from cleaned reviews
+5. Applied cosine similarity to detect semantically similar complaints
+6. Generated structured outputs for recurring complaint analysis
+
+### Business Value
+- Helps identify recurring customer issues
+- Reduces manual review analysis
+- Enables intelligent complaint grouping for operational insights
+
 ## 🧠 Skills Learned / Highlights
 
 * Azure Data Engineering (ADF, Databricks, Synapse, ADLS)
